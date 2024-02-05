@@ -18,5 +18,8 @@
         "titleBar.inactiveBackground": "#b3495099",
         "titleBar.inactiveForeground": "#e7e7e799"
     },
-    "peacock.color": "#b34950"
+    "peacock.color": "#b34950",
+    "cSpell.words": [
+        "FAKEDB"
+    ]
 }
